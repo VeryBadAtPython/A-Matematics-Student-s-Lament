@@ -23,4 +23,4 @@
 \contentsline {subsection}{\numberline {6.2.1}Essential Mathematics}{8}{}%
 \contentsline {subsection}{\numberline {6.2.2}Life Mathematics}{8}{}%
 \contentsline {subsection}{\numberline {6.2.3}Analytical Methods}{8}{}%
-\contentsline {subsection}{\numberline {6.2.4}Numerical Methods}{8}{}%
+\contentsline {subsection}{\numberline {6.2.4}Numerical Methods}{9}{}%
