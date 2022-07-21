@@ -1,26 +1,37 @@
-\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
-\contentsline {chapter}{\numberline {2}The HSC}{2}{}%
-\contentsline {chapter}{\numberline {3}The SACE}{3}{}%
-\contentsline {section}{\numberline {3.1}Stage 1}{3}{}%
-\contentsline {subsection}{\numberline {3.1.1}Essential Mathematics}{3}{}%
-\contentsline {subsection}{\numberline {3.1.2}General Mathematics}{3}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
+\contentsline {chapter}{\numberline {2}The HSC}{3}{}%
+\contentsline {chapter}{\numberline {3}The SACE}{4}{}%
+\contentsline {section}{\numberline {3.1}Stage 1}{4}{}%
+\contentsline {subsection}{\numberline {3.1.1}Essential Mathematics}{4}{}%
+\contentsline {subsection}{\numberline {3.1.2}General Mathematics}{4}{}%
 \contentsline {subsection}{\numberline {3.1.3}Mathematics}{4}{}%
-\contentsline {section}{\numberline {3.2}Stage 2}{4}{}%
-\contentsline {subsection}{\numberline {3.2.1}Essential Mathematics}{4}{}%
-\contentsline {subsection}{\numberline {3.2.2}General Mathematics}{4}{}%
+\contentsline {section}{\numberline {3.2}Stage 2}{5}{}%
+\contentsline {subsection}{\numberline {3.2.1}Essential Mathematics}{5}{}%
+\contentsline {subsection}{\numberline {3.2.2}General Mathematics}{5}{}%
 \contentsline {subsection}{\numberline {3.2.3}Mathematical Methods}{5}{}%
-\contentsline {subsection}{\numberline {3.2.4}Specialist Mathematics}{5}{}%
-\contentsline {chapter}{\numberline {4}The QCE}{6}{}%
-\contentsline {chapter}{\numberline {5}What's Missing?}{7}{}%
-\contentsline {chapter}{\numberline {6}An Alternative}{8}{}%
-\contentsline {section}{\numberline {6.1}Stage 1 - Year 11}{8}{}%
-\contentsline {subsection}{\numberline {6.1.1}Essential Mathematics}{8}{}%
-\contentsline {subsection}{\numberline {6.1.2}Statistical Methods}{8}{}%
-\contentsline {subsection}{\numberline {6.1.3}Calculus Methods}{8}{}%
-\contentsline {subsection}{\numberline {6.1.4}Linear Algebra Methods}{8}{}%
-\contentsline {subsection}{\numberline {6.1.5}Introduction to Analytic methods}{8}{}%
-\contentsline {section}{\numberline {6.2}Stage 2 - Year 12}{8}{}%
-\contentsline {subsection}{\numberline {6.2.1}Essential Mathematics}{8}{}%
-\contentsline {subsection}{\numberline {6.2.2}Life Mathematics}{8}{}%
-\contentsline {subsection}{\numberline {6.2.3}Analytical Methods}{8}{}%
-\contentsline {subsection}{\numberline {6.2.4}Numerical Methods}{9}{}%
+\contentsline {subsection}{\numberline {3.2.4}Specialist Mathematics}{6}{}%
+\contentsline {chapter}{\numberline {4}The QCE}{7}{}%
+\contentsline {chapter}{\numberline {5}What's Missing?}{8}{}%
+\contentsline {chapter}{\numberline {6}An Alternative}{9}{}%
+\contentsline {section}{\numberline {6.1}Stage 1 - Year 11}{9}{}%
+\contentsline {subsection}{\numberline {6.1.1}Essential Mathematics}{9}{}%
+\contentsline {subsection}{\numberline {6.1.2}Statistical Methods}{9}{}%
+\contentsline {subsection}{\numberline {6.1.3}Calculus Methods}{9}{}%
+\contentsline {subsection}{\numberline {6.1.4}Linear Algebra Methods}{9}{}%
+\contentsline {subsection}{\numberline {6.1.5}Introduction to analytic problem solving}{9}{}%
+\contentsline {section}{\numberline {6.2}Stage 2 - Year 12}{9}{}%
+\contentsline {subsection}{\numberline {6.2.1}Essential Mathematics}{9}{}%
+\contentsline {subsection}{\numberline {6.2.2}Life Mathematics}{9}{}%
+\contentsline {subsection}{\numberline {6.2.3}Analytical Methods}{9}{}%
+\contentsline {subsubsection}{Introduction to mathematics}{9}{}%
+\contentsline {subsubsection}{Functions and Graphs}{10}{}%
+\contentsline {subsubsection}{Polynomials and Complex Numbers}{10}{}%
+\contentsline {subsubsection}{Analytic integration}{10}{}%
+\contentsline {subsubsection}{Differential equations, vectors and vector calculus}{10}{}%
+\contentsline {subsection}{\numberline {6.2.4}Numerical Methods}{10}{}%
+\contentsline {subsubsection}{Introduction and revision}{10}{}%
+\contentsline {subsubsection}{Further differentiation and applications}{10}{}%
+\contentsline {subsubsection}{Integral calculus}{11}{}%
+\contentsline {subsubsection}{Discretization of calculus models}{11}{}%
+\contentsline {subsubsection}{Computational linear algebra}{11}{}%
+\contentsline {subsubsection}{Further computation}{11}{}%

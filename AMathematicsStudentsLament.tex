@@ -1,4 +1,4 @@
-\documentclass[11pt]{report}
+\documentclass[12pt]{report}
 
 \title{A Mathematics Student's Lament}
 
@@ -26,14 +26,32 @@
 
 %\usepackage{setspace}
 
+\usepackage[margin=2cm]{geometry}
+
 \usepackage{xcolor}
 
+\usepackage{titlesec}
+
+\titleformat{\section}
+{\color{purple}\normalfont\Large\bfseries}
+{\color{purple}\thesection}{1em}{}
+
+\titleformat{\subsection}
+{\color{purple}\normalfont\bfseries}
+{\color{purple}\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+{\color{blue}\normalfont\bfseries}
+{\color{blue}\thesubsubsection}{1em}{}
+
+
+
 \begin{document}
-\pagenumbering{roman}
+
     \maketitle
     \tableofcontents
 \newpage
-\pagenumbering{arabic}
+
 
 % ================================================================================================
 % === Intro              =========================================================================
@@ -207,7 +225,7 @@
 \subsection{Statistical Methods}
 \subsection{Calculus Methods}
 \subsection{Linear Algebra Methods}
-\subsection{Introduction to Analytic methods}
+\subsection{Introduction to analytic problem solving}
 
 % ================================================================================================
 % === ChY.2 - Stage 2 ============================================================================
@@ -224,15 +242,25 @@
         \centering
         \begin{tabular}{|l|l|}
         \hline
-            1.1 & Logic and Proofs (Inc. Direct, Contrapositive, Contradiction and Induction) \\ \hline
-            1.2 & Introduction to algebra and real analysis ($\varepsilon - N$ and $\varepsilon - \delta$ limit definitions, groups, permutation groups, cyclic groups. \\ \hline
-            2 & Functions and graphs (with links to analysis \\ \hline
-            3 & Polynomials and Complex numbers (Realization of roots of unity as a cyclic group)\\ \hline
-            4 & Analytic Integration (Parts, Substitution and inverse trigonometric functions)\\ \hline
+            1.1 & Logic and Proofs \\ \hline
+            1.2 & Introduction to algebra and real analysis \\ \hline
+            2 & Functions and graphs \\ \hline 
+            3 & Polynomials and Complex numbers \\ \hline
+            4 & Analytic Integration  \\ \hline 
             5.1 & Analytic solutions to differential equations \\ \hline
             5.2 & Vectors and Vector Calculus in three dimensions\\ \hline
         \end{tabular}
     \end{table}
+
+    \subsubsection{Introduction to mathematics}
+        \paragraph*{Logic and Proofs} (Including $\forall$, $\exists$, Negation, Direct, Contrapositive, Contradiction and Induction.)
+        \paragraph*{Introduction to algebra and real analysis} ($\varepsilon - N$ and $\varepsilon - \delta$ limit definitions, groups, permutation groups, cyclic groups.)
+    \subsubsection{Functions and Graphs} (with links to analysis)
+    \subsubsection{Polynomials and Complex Numbers} (Lead from solutions to Polynomials to Complex numbers to realizing roots of unity as a cyclic group)
+    \subsubsection{Analytic integration} (Parts, Substitution and inverse trigonometric functions)
+    \subsubsection{Differential equations, vectors and vector calculus}
+        \paragraph*{Analytic solutions to differential equations} (Separable DEs, harmonic oscillators and logistic growth)
+        \paragraph*{Vectors and Vector Calculus in three dimensions} (Volume integrals, parametric curves, vector fields and partial differentiation)
 
 
 
@@ -244,7 +272,7 @@
         \centering
         \begin{tabular}{|l|l|}
         \hline
-            1.1 & Introduction to computational approaches and the julia language\\
+            1.1 & Introduction to computational approaches and the julia language\\ \hline
             1.2 & Revision of common differential functions\\ \hline
             2 & Further differentiation and applications \\ \hline
             3 & Integral calculus \\ \hline
@@ -255,5 +283,13 @@
         \end{tabular}
     \end{table}
 
+    \subsubsection{Introduction and revision} (Revise logarithmic, exponential and trigonometric functions) (Introduce for, while and recursive loops, digital boolean logic [and, or, if-then-else] introduce the motivation for using julia and appreciate the difference between scripting and repl based interface)
+    \subsubsection{Further differentiation and applications} (Extend to differentiating trig, exponential and logarithmic functions)
+    \subsubsection{Integral calculus} (FTOC, integrating trig, exponential and logarithmic functions)
+    \subsubsection{Discretization of calculus models} (discrete differentiation, Midpoint rule, trapezoid rule, simpson's rule, simulating first order DEs like HOs)
+    \subsubsection{Computational linear algebra} (Elementary rol ops, Solutions to systems of LEs with row reduction and cramer's rule, Shortest distance between planes and line problems in n dimensions, markov chains and steady states)
+    \subsubsection{Further computation} 
+        \paragraph*{Statistics and computation} (Application of previously learned statistics on large datasets. Dealing with .csv files etc... )
+        \paragraph*{Computational problem solving} (Basic cellular automata, Monte-carlo methods, financial applications)
 
 \end{document}
