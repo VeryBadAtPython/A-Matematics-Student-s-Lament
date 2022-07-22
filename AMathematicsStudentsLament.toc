@@ -34,4 +34,4 @@
 \contentsline {subsubsection}{Integral calculus}{12}{}%
 \contentsline {subsubsection}{Discretization of calculus models}{12}{}%
 \contentsline {subsubsection}{Computational linear algebra}{12}{}%
-\contentsline {subsubsection}{Further computation}{12}{}%
+\contentsline {subsubsection}{Further computation}{13}{}%

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1658489713 "c:/Users/jacob/Documents/GitHub/A-Matematics-Student-s-Lament/AMathematicsStudentsLament.tex" "AMathematicsStudentsLament.pdf" "AMathematicsStudentsLament" 1658489714
-  "AMathematicsStudentsLament.aux" 1658489714 4772 424319edfb282648ec282cc44aba2200 "pdflatex"
-  "AMathematicsStudentsLament.toc" 1658489714 2527 3cbcdb2a03c7257cc6273bb0a86fd7e9 "pdflatex"
+["pdflatex"] 1658493048 "c:/Users/jacob/Documents/GitHub/A-Matematics-Student-s-Lament/AMathematicsStudentsLament.tex" "AMathematicsStudentsLament.pdf" "AMathematicsStudentsLament" 1658493049
+  "AMathematicsStudentsLament.aux" 1658493049 4772 d3b8a182a7db574ed5946f8091d3f7a2 "pdflatex"
+  "AMathematicsStudentsLament.toc" 1658493049 2527 0415e5eec71b3e53f2de443756a7de52 "pdflatex"
   "C:/Users/jacob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1658316923 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/jacob/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1655810140 10326007 c63933c9a376daafe1650f4ace771ad8 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -22,12 +22,16 @@
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt12.tfm" 1136765053 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 fa121aac0049305630cf160b86157ee4 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1247596666 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
+  "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 ad62b13721ee8eda1dcc8993c8bd7041 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -61,7 +65,7 @@
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1636710260 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "Flowchart1.jpg.png" 1658487408 32586 081e56a82fc1d036e02af4de370910b1 ""
-  "c:/Users/jacob/Documents/GitHub/A-Matematics-Student-s-Lament/AMathematicsStudentsLament.tex" 1658489712 13516 67f4d5bd0bcc16bd3d14dfa01309524a ""
+  "c:/Users/jacob/Documents/GitHub/A-Matematics-Student-s-Lament/AMathematicsStudentsLament.tex" 1658493048 15278 f96a5c99e84af100a62e3f309fbe7c5a ""
   (generated)
   "AMathematicsStudentsLament.aux"
   "AMathematicsStudentsLament.log"

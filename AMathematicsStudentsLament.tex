@@ -297,7 +297,11 @@
 
 
 \subsection{Numerical Methods}
-    Numerical methods should serves to develop the topics learned in stage with emphasis on the computational skills necessary for engineering, computer science and sciences with an appreciation of computer driven calculation.
+    
+    Skills in numerical modelling and computation are incredibly important to all sciences with the authours having expressed  how important such skills are in preparing for university studies in multiple disciplines. Numerical Methods aims to address this shortcoming by developing the topics learned in stag 1 with emphasis computing. Students will be left with the appreciation of computer driven calculation necessary for further study in engineering, the sciences and economics.
+
+
+    The language Julia has been recommended by the authours due to it having syntax familiar to users of both MATLAB and Python but with the capabilities of MATLAB and R (commonly used in university) inbuilt requiring no imported LA or Statistical packages to achieve the aims of the course. This eases the barrier of entry to students whilst also being free (including when pared with an IDE like VS Code).
 
     Proposed topics are:
     \begin{table}[H]
@@ -315,13 +319,19 @@
         \end{tabular}
     \end{table}
 
-    \subsubsection{Introduction and revision} (Revise logarithmic, exponential and trigonometric functions) (Introduce for, while and recursive loops, digital boolean logic [and, or, if-then-else] introduce the motivation for using julia and appreciate the difference between scripting and repl based interface)
-    \subsubsection{Further differentiation and applications} (Extend to differentiating trig, exponential and logarithmic functions as well as chain product and quotient rules)
-    \subsubsection{Integral calculus} (FTOC, integrating trig, exponential and logarithmic functions)
-    \subsubsection{Discretization of calculus models} (discrete differentiation, Midpoint rule, trapezoid rule, simpson's rule, simulating first order DEs like HOs)
-    \subsubsection{Computational linear algebra} (Elementary rol ops, Solutions to systems of LEs with row reduction and cramer's rule, Shortest distance between planes and line problems in n dimensions, markov chains and steady states)
+    \subsubsection{Introduction and revision} As commonly done students should first revise logarithmic, exponential and trigonometric functions for later use in calculus. Subsequently the Julia language should be introduced and the motivation behind the choice. Students should then have a practical understanding variables, simple types, digital boolean logic including \verb|If-Then-Else| statements and loops such as \verb|for|, \verb|while| and recursion. Students should understand the difference between scripting and repl based interaction.
+    
+    \subsubsection{Further differentiation and applications} Students should be able to differentiate trigonometric, exponential and logarithmic functions. They should also understand the chain product and quotient rules.
+
+    \subsubsection{Integral calculus} Understand antidifferentiation, the fundamental theorem of calculus and integrating trigonometric and exponential functions.
+
+    \subsubsection{Discretization of calculus models} Cover the disscretization of calculus problems and implement in Julia discrete differentiation, the midpoint rule, trapezoid rule and simpson's rule. Introduce differential equations and how to simulate their behaviour such as harmonic oscillators. Understand the precision of their algorithms.
+
+    \subsubsection{Computational linear algebra} Be able to perform elementary row operations to reduced row echelon form and solve consistent systems of linear equations. Understand geometrical interpretation of inconsistent systems in $\mathbb{R}^2$ and $\mathbb{R}^3$. Write both row reduction Cramer's rule algorithms so find solutions to consistent systems. Find the shortest distance between planes and line problems in n dimensions. Be able to simulate markov chains and compute steady states as well as matrix transformations.
+
     \subsubsection{Further computation} 
-        \paragraph*{Statistics and computation} (Application of previously learned statistics on large datasets. Dealing with .csv files etc... )
-        \paragraph*{Computational problem solving} (Basic cellular automata, Monte-carlo methods, financial applications, reasoning on algorithmic complexity linear, quadratic, exponential)
+        \paragraph*{Statistics and computation} Import .csv files and navigate datasets using julia. Perform visualization and statistical analysis on large datasets applying previously learned statistics.
+
+        \paragraph*{Computational problem solving} Study intersectional areas such as Monte-carlo methods, financial applications, and reason on algorithmic complexity (linear, quadratic and exponential time). Select topics from cellular automata and introduce simple game strategies in theory such as greedy and minimax. Present a map of numerical and computational fields.
 
 \end{document}
