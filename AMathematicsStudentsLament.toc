@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {6.1.2}Statistical Methods}{10}{}%
 \contentsline {subsection}{\numberline {6.1.3}Calculus Methods}{10}{}%
 \contentsline {subsection}{\numberline {6.1.4}Linear Algebra Methods}{10}{}%
-\contentsline {subsection}{\numberline {6.1.5}Introduction to analytic problem solving}{10}{}%
+\contentsline {subsection}{\numberline {6.1.5}Introduction to Analytical Problem Solving}{10}{}%
 \contentsline {section}{\numberline {6.2}Stage 2 - Year 12}{10}{}%
 \contentsline {subsection}{\numberline {6.2.1}Essential Mathematics}{10}{}%
 \contentsline {subsection}{\numberline {6.2.2}Life Mathematics}{10}{}%
@@ -28,10 +28,10 @@
 \contentsline {subsubsection}{Polynomials and Complex Numbers}{11}{}%
 \contentsline {subsubsection}{Analytic integration}{11}{}%
 \contentsline {subsubsection}{Differential equations, vectors and vector calculus}{11}{}%
-\contentsline {subsection}{\numberline {6.2.4}Numerical Methods}{11}{}%
+\contentsline {subsection}{\numberline {6.2.4}Numerical Methods}{12}{}%
 \contentsline {subsubsection}{Introduction and revision}{12}{}%
 \contentsline {subsubsection}{Further differentiation and applications}{12}{}%
 \contentsline {subsubsection}{Integral calculus}{12}{}%
 \contentsline {subsubsection}{Discretization of calculus models}{12}{}%
-\contentsline {subsubsection}{Computational linear algebra}{12}{}%
+\contentsline {subsubsection}{Computational linear algebra}{13}{}%
 \contentsline {subsubsection}{Further computation}{13}{}%
